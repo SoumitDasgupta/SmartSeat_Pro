@@ -1,0 +1,6 @@
+roll no per class - done
+Add Seat allocation table/subject - done
+organisation-hall-branch - done
+Exam schedule - new 
+Sem wise exam schedule
+QR code

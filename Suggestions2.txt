@@ -1,0 +1,24 @@
+First registration id, then others - DONE
+Bench sticker, download pdf  - DONE
+Date of exam  -  DONE
+Exam schedule- sem exam dates, which sem, which subject  - DONE
+Schedule preuploaded, align with it(Date, stream, Sub, Sem)  - DONE
+Allocation plan for all exams - together, what exam, whose exam, which subject. - DONE
+Exam type, Year, Month, sequence(different sets, sem1/3 , sem2/4) - identifier, unique(End exam 2026 April, that exam only) Add column for which exam it is - DONE
+Exam schedule - exam code, date, Which sem, which subject, identifier(Above).  - DONE
+
+
+Student part:
+Date, subject, hall, seating. (Table, Printable) - DONE
+
+First exam Schedule downloadable. - DONE
+
+
+Admin:
+Date gives schedule, seating all.
+Sem wise. Stream. Combos.  - DONE
+Total Mid sem Diplay.
+Display table, when selected before download.
+
+
+Insert, Update (Pg Admin)  - DONE

@@ -1,0 +1,10 @@
+Filter of allo by date, stream, sub, etc, search as well
+Updating for databases, insert NO TRUNCATE, existing update, new insert
+
+Download in pdf for both
+Filter like excel
+
+Multiple data upload allowance
+
+Logic in a loop for the whole exam schedule
+Write the engine.py in a method- call back for all the exam days
